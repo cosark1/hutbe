@@ -25,7 +25,7 @@
    62,
    58,
    57,
-   53,
+   54,
    44,
    41,
    24,
@@ -335,7 +335,7 @@
     3,
     3,
     2,
-    4,
+    5,
     2,
     1,
     0,
@@ -4518,7 +4518,7 @@
   },
   {
    "name": "Al-i İmran",
-   "count": 68
+   "count": 69
   },
   {
    "name": "Maide",
@@ -4534,7 +4534,7 @@
   },
   {
    "name": "Hucurat",
-   "count": 21
+   "count": 22
   },
   {
    "name": "Tevbe",
@@ -4595,14 +4595,14 @@
    "quote": "Yaratan Rabbinin adıyla oku. O, insanı ana rahmine tutunan, döllenmiş bir yumurtadan yarattı. Oku! Kalemle yazmayı öğreten, insana bilmediğini bildiren Rabbin sonsuz kerem sahibidir."
   },
   {
+   "label": "Hucurat 10",
+   "count": 9,
+   "quote": "Müminler kardeştirler."
+  },
+  {
    "label": "En'am 162",
    "count": 8,
    "quote": "De ki, şüphesiz benim namazım, ibadetlerim, hayatım ve ölümüm, âlemlerin Rabbi olan Allah içindir."
-  },
-  {
-   "label": "Hucurat 10",
-   "count": 8,
-   "quote": "Müminler kardeştirler."
   },
   {
    "label": "Nisa 93",
@@ -4678,7 +4678,7 @@
  "top_hadis_kaynak": [
   {
    "name": "Tirmizî",
-   "count": 213
+   "count": 214
   },
   {
    "name": "Buhârî",
@@ -4740,7 +4740,7 @@
  "keyword_category_matrix": [
   {
    "keyword": "kardeşlik",
-   "total": 40,
+   "total": 41,
    "Toplumsal Dayanışma, Merhamet ve Kardeşlik": 13,
    "İman, Tevhid ve Ahiret": 0,
    "Ramazan, Oruç ve Bayramlar": 15,
@@ -4748,7 +4748,7 @@
    "İbadet ve Kulluk": 0,
    "Aile, Çocuk ve Nesil": 0,
    "Kandiller, Muharrem ve Mübarek Geceler": 1,
-   "Vatan, Millet ve Tarih": 4,
+   "Vatan, Millet ve Tarih": 5,
    "Ekonomik Hayat: Kazanç, Zekat ve İsraf": 1,
    "Sabır, Tevekkül ve Manevi Olgunluk": 0,
    "İslam Coğrafyası ve Küresel Meseleler": 0,
@@ -5502,7 +5502,7 @@
  "top_keywords": [
   {
    "keyword": "kardeşlik",
-   "count": 40
+   "count": 41
   },
   {
    "keyword": "dua",
@@ -5741,13 +5741,13 @@
    "count": 10
   }
  ],
- "total_hutbe": 711,
- "total_citations": 1502,
- "total_ayet": 668,
- "total_hadis": 814,
+ "total_hutbe": 712,
+ "total_citations": 1506,
+ "total_ayet": 671,
+ "total_hadis": 815,
  "total_sahabe_isim": 20,
  "total_keywords": 1681,
- "total_keyword_mentions": 4005,
+ "total_keyword_mentions": 4010,
  "year_min": 2011,
  "year_max": 2026,
  "top_category": "İman, Tevhid ve Ahiret"
