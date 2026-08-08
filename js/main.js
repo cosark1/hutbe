@@ -199,7 +199,6 @@
     hutbeler,
   });
 
-
   // ---- Hutbe-TCCB gecikme (lag) analizi (İP-6) ----
   await App.lagAnalizi.render({
     statElId: 'lag-stats', caveatElId: 'lag-caveat', tableElId: 'lag-olay-table',
