@@ -18,7 +18,7 @@
    "Kur'an-ı Kerim"
   ],
   "values": [
-   74,
+   75,
    76,
    74,
    69,
@@ -328,7 +328,7 @@
     0
    ],
    [
-    3,
+    4,
     3,
     5,
     4,
@@ -4514,7 +4514,7 @@
  "top_suras": [
   {
    "name": "Bakara",
-   "count": 84
+   "count": 85
   },
   {
    "name": "Al-i İmran",
@@ -4678,7 +4678,7 @@
  "top_hadis_kaynak": [
   {
    "name": "Tirmizî",
-   "count": 221
+   "count": 222
   },
   {
    "name": "Buhârî",
@@ -5741,13 +5741,13 @@
    "count": 10
   }
  ],
- "total_hutbe": 729,
- "total_citations": 1571,
- "total_ayet": 701,
- "total_hadis": 850,
+ "total_hutbe": 730,
+ "total_citations": 1573,
+ "total_ayet": 702,
+ "total_hadis": 851,
  "total_sahabe_isim": 20,
- "total_keywords": 1712,
- "total_keyword_mentions": 4095,
+ "total_keywords": 1714,
+ "total_keyword_mentions": 4100,
  "year_min": 2011,
  "year_max": 2026,
  "top_category": "İman, Tevhid ve Ahiret"
